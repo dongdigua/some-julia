@@ -1,6 +1,6 @@
 using Base.Threads
 
-x=123456789123456789123
+x=987654322
 #x=parse(Int,n)
 y=ceil(sqrt(x))
 z=convert(Int,y)
